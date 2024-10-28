@@ -1,0 +1,30 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+
+#center{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.navbar-btn{
+    width: 100%;
+}
+.card-img-top{
+    height: 220px;
+}
+.bg-red{
+    color: white;
+    background-color: red;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-green{
+    color: white;
+    background-color: green;
+}
